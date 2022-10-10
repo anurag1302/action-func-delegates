@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ActionAndFuncDelegatesSolution
+/ActionAndFuncDelegates/bin/Debug/net6.0
+/ActionAndFuncDelegates/obj
+/Tests/bin/Debug/net6.0
+/Tests/obj
